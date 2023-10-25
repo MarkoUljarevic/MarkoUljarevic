@@ -7,5 +7,6 @@
 
 🔒 Aspiring Penetration Tester | Cybersecurity Enthusiast 💻
 
-![My Skills](https://skillicons.dev/icons?i=git,github,go,java,spring,cs,dotnet,cpp,c,py,js,ts,postgres,mongodb,rabbitmq,docker,react,angular,vue)
+<h3>Skills</h3>
+![My Skills](https://skillicons.dev/icons?i=git,github,go,java,spring,cs,dotnet,cpp,c,py,js,ts,postgres,mongodb,rabbitmq,docker,react,angular,vue&perline=10)
 
