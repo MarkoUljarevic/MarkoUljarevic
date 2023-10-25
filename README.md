@@ -1,4 +1,4 @@
-<h1 align="center"> 🚀 I am software engineer 🚀 </h1>
+<h1 align="center"> 🚀 I am a software engineer 🚀 </h1>
 
 
 🔍 Always seeking innovative solutions to complex problems
